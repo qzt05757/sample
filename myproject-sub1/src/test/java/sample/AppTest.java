@@ -22,4 +22,8 @@ public class AppTest extends TestCase {
     	assertTrue(true);
     }
     
+    public void testSuccess1() {
+    	assertTrue(true);
+    }
+    
 }
