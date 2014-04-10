@@ -1,3 +1,3 @@
-sample
+sample2
 ======
-これは sample です。
+これは Sample です。
